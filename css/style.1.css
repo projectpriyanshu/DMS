@@ -1,0 +1,64 @@
+
+.container-fluid
+{
+	position: absolute;
+	top: 50%;
+	left: 0%;
+	transform: translateY(-50%);
+}
+
+/*.box{
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+.box h1
+{	
+	font-family: 'Fredoka One', cursive;
+
+}
+
+.welcome-form-input
+{
+	padding-left:0;
+}
+
+
+.welcome-form-input:focus
+{
+	box-shadow: none !important;
+}
+
+.submit-btn
+{
+	background: #0C7703 !important;
+	color: white;
+	box-shadow: none !important;
+
+}
+.submit-btn:hover
+{
+	background: #59FA4C !important;
+	box-shadow: none !important;
+
+}
+
+.reset-btn
+{
+		background-color: #ED0626 !important;
+		color: white;
+		box-shadow: none !important;
+
+}
+
+.reset-btn:hover
+{
+		background-color: #F80505 !important;
+		color: white;
+		box-shadow: none !important;
+
+
+}
+
+
+*/

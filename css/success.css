@@ -1,0 +1,19 @@
+.page
+{
+	width: 100%;
+	position: absolute;
+	top: 50%;
+	left: 0px;
+	transform: translateY(-50%);
+	text-align: center;
+
+}
+
+.icon, h1{
+	font-size: 100px;
+}
+
+h1{
+	font-family: 'Alata', sans-serif;
+
+}
